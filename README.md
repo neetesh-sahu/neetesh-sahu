@@ -1,5 +1,9 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<img align="right" height="200" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
@@ -18,15 +22,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h3 align="left">Hi, I'm Neetesh Sahu 👋  <br><br>Computer Science & Engineering student  <br>Learning Linux, Git, GitHub, AWS and DevOps basics  <br>Interested in cloud and automation</h3>
 
 ###
 
-<p align="left">I'm ... from ....Narsinghpur<br>- ⚡ In my free time, I practice Linux commands and explore DevOps tools.</p>
+<p align="left">I'm from Narsinghpur<br>- ⚡ In my free time, I practice Linux commands and explore DevOps tools.</p>
 
 ###
 
@@ -48,14 +48,20 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neetesh-sahu/neetesh-sahu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neetesh-sahu/neetesh-sahu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/neetesh-sahu/neetesh-sahu/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ 31s2erap2c4xqakktnzgnlqwoo6m">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%2031s2erap2c4xqakktnzgnlqwoo6m&count=5" alt="Spotify recently played"  />
-  </a>
+<img src="https://raw.githubusercontent.com/neetesh-sahu/neetesh-sahu/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
